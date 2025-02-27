@@ -17,10 +17,10 @@ while (continuar) {
     let condition = true;
     while (condition) {
       let eleccion = prompt(`Ingrese una opción para agregar al carrito el producto:
-          1- Página de Venta de Productos (E-commerce) (S/ 2500)
-          2- Páginas Corporativas (S/ 1500)
-          3- Landing Pages (S/ 800)
-          4- Páginas de Portafolio (S/ 1000)
+          1- Página de Venta de Productos (E-commerce)
+          2- Páginas Corporativas
+          3- Landing Pages
+          4- Páginas de Portafolio
           5- Ver total del carrito
           ESC- Salir de agregar productos
       `);
